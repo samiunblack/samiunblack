@@ -20,10 +20,10 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" aligh="right"/>
 
 **Talking about Personal Stuffs:**
-    - 🔭 I'm currently working on something cool
-    - 🚀 I'm currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/samiunblack/)
-    - ⚡ In my free time I read tech articles
-    - 📫 Reach me at [samiunblack@gmail.com](malito:samiunblack@gmail.com)
+- 🔭 I'm currently working on something cool
+- 🚀 I'm currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/samiunblack/)
+- ⚡ In my free time I read tech articles
+- 📫 Reach me at [samiunblack@gmail.com](malito:samiunblack@gmail.com)
 
 <br>
 <!--
