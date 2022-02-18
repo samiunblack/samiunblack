@@ -25,11 +25,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 <br>
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
 
 🔥 **My Stats :**
 
@@ -37,6 +33,11 @@ No Activity tracked this Week
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiunblack&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
+ <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
