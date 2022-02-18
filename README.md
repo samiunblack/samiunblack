@@ -26,6 +26,9 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <br>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 🔥 **My Stats :**
