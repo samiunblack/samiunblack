@@ -17,7 +17,7 @@
 
 I am a software engineer and problem solver. I love programming, reading and teaching
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align="right"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" align="right"/>
 
 **Talking about Personal Stuffs:**
 - 🔭 I'm currently working on something cool
