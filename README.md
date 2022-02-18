@@ -11,7 +11,21 @@
     </a>
 </div>
 
-### Glad to see you here! <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" width="30px">
+<hr>
+
+## Glad to see you here! 😄
+
+I am a software engineer and problem solver. I love programming, reading and teaching
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" aligh="right"/>
+
+**Talking about Personal Stuffs:**
+    - 🔭 I'm currently working on something cool
+    - 🚀 I'm currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/samiunblack/)
+    - ⚡ In my free time I read tech articles
+    - 📫 Reach me at [samiunblack@gmail.com](malito:samiunblack@gmail.com)
+
+<br>
 <!--
 **samiunblack/samiunblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
