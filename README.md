@@ -46,4 +46,4 @@ Total: 0 secs
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
+<!-- Add other things here-->
