@@ -43,5 +43,3 @@ Week: 12 February, 2022 - 18 February, 2022
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Add other things here-->
