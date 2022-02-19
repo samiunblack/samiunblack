@@ -35,7 +35,9 @@ I am a software engineer and problem solver. I love programming, reading and tea
  
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 0 secs
+
+
 ```
 <!--END_SECTION:waka-->
 
