@@ -35,6 +35,8 @@ I am a software engineer and problem solver. I love programming, reading and tea
  
  <!--START_SECTION:waka-->
 ```text
+Week: 12 February, 2022 - 18 February, 2022
+
 Total: 0 secs
 
 
