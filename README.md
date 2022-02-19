@@ -33,12 +33,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiunblack&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- <!--START_SECTION:waka-->
-```text
-Week: 12 February, 2022 - 18 February, 2022
-
-
-```
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
