@@ -18,7 +18,7 @@
 ## Glad to see you here! 😄
 
 I am a software engineer and problem solver. I love programming, reading and teaching
-<img src="https://github.com/samiunblack/samiunblack/blob/main/Code%20Coding%20GIF%20-%20Code%20Coding%20Programming%20-%20Discover%20%26%20Share%20GIFs.gif" width="200" align="right"/>
+<img src="https://github.com/samiunblack/samiunblack/blob/main/Code%20Coding%20GIF%20-%20Code%20Coding%20Programming%20-%20Discover%20%26%20Share%20GIFs.gif" width="300" align="right"/>
 
 👨‍💻 **Talking about Personal Stuffs:**
 - 🔭 I'm currently working on something cool
