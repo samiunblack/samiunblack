@@ -24,6 +24,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 - 🔭 I'm currently working on something cool
 - 🚀 I'm currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/samiunblack/)
 - ⚡ In my free time I read tech articles
+- ⌨️ Typing Speed: 120 WPM
 - 📫 Reach me at samiunblack@gmail.com
 
 <br>
