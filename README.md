@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Facebook Badge"/>
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Devto Badge"/>
     </a>
 </div>
 
@@ -24,7 +24,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 - 🔭 I'm currently working on something cool
 - 🚀 I'm currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/samiunblack/)
 - ⚡ In my free time I read tech articles
-- ⌨️ Typing Speed: 103 WPM
+- ⌨️ Typing Speed: 104 WPM
 - 📫 Reach me at samiunblack@gmail.com
 
 <br>
