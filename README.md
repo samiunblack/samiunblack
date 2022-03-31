@@ -31,7 +31,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 🔥 **My Stats :**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiunblack&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark)](https://git.io/streak-stats) 
 
  
 <!--START_SECTION:waka-->
