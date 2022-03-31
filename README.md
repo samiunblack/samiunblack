@@ -17,7 +17,7 @@
 
 ## Glad to see you here! 😄
 
-I am a software engineer and problem solver. I love programming, reading and teaching
+I am a software engineer and problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="right"/>
 
 👨‍💻 **Talking about Personal Stuffs:**
@@ -29,11 +29,6 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 <br>
 
-✨ **Technologies:**
-
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-<br>
 
 🔥 **My Stats :**
 
