@@ -1,4 +1,4 @@
-### Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img  align="center" src="https://github.com/samiunblack/blob/main/hellocoders.gif" width="30px">
 <div id="badges">
     <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
