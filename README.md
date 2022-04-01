@@ -18,7 +18,7 @@
 ## Glad to see you here! 😄
 
 I am a software engineer and problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
-
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="right"/>
 
 👨‍💻 **Talking about Personal Stuffs:**
 - <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-rocket-72dpi-forPersonalUseOnly.gif" width="25"/> I'm currently working on something cool
