@@ -38,14 +38,14 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2022 - To: 17 May 2022
+From: 11 May 2022 - To: 18 May 2022
 
-JavaScript   20 hrs 21 mins  █████████████░░░░░░░░░░░░   51.63 %
-C            8 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-Python       6 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-CSS          1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-C++          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Markdown     49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+JavaScript   23 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.92 %
+C            7 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Python       4 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
+CSS          1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown     42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+HTML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka--> 
