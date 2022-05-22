@@ -9,9 +9,6 @@
     <a href="https://www.facebook.com/samiun.black.01">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="https://dev.to/samiunblack">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Devto Badge"/>
-    </a>
     <a href="https://samiunblack.xyz">
         <img alt="My Blog" src="https://img.shields.io/badge/-Blog-6C63FF?logo=accenture&logoColor=white&style=for-the-badge">
     </a>
