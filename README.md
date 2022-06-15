@@ -14,7 +14,7 @@
 
 
 ## Glad to see you here! 😄
-<a href="https://app.daily.dev/samiunblack"><img src="https://api.daily.dev/devcards/e7a0861a820b417b853156b26463ea3a.png?r=qpp" width="250" alt="Samiun Black's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/samiunblack"><img src="https://api.daily.dev/devcards/e7a0861a820b417b853156b26463ea3a.png?r=qpp" width="210" alt="Samiun Black's Dev Card" align="right"/></a>
 
 I am a software engineer and problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
 
