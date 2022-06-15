@@ -37,13 +37,12 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
-C++     3 hrs 35 mins   █████████████████░░░░░░░░   67.71 %
-Java    1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-C       30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++    4 hrs 48 mins   ███████████████████▒░░░░░   77.79 %
+Java   49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+C      30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+JSON   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka--> 
