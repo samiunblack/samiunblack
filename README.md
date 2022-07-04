@@ -36,7 +36,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 June 2022 - To: 02 July 2022
+From: 26 June 2022 - To: 03 July 2022
 
 JavaScript   8 hrs 44 mins   ████████████████████░░░░░   80.11 %
 CSS          1 hr 53 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
