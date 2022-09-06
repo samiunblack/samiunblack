@@ -36,7 +36,9 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 August 2022 - To: 05 September 2022
+
+Python   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
