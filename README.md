@@ -1,4 +1,4 @@
-<img  align="center" src="https://github.com/samiunblack/samiunblack/blob/main/hellocoders.gif" width="3000px">
+<img  align="center" src="https://github.com/samiunblack/samiunblack/blob/main/pixil-frame-0%20(1).png" width="3000px">
 <div align="center">
     <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
