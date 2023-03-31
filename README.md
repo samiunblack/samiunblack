@@ -20,10 +20,9 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 👨‍💻 **Talking about Personal Stuffs:**
 
-- <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-rocket-72dpi-forPersonalUseOnly.gif" width="25"/> I'm currently working on something cool
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I'm currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/samiunblack/)
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp; In my free time I read tech articles
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 104 WPM
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp; Typing Speed 110 WPM
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at samiunblack@gmail.com
 
 <br>
