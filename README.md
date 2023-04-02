@@ -33,6 +33,8 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```text
+From: 25 March 2023 - To: 01 April 2023
+
 No activity tracked
 ```
 
