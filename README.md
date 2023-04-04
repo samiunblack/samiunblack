@@ -1,4 +1,6 @@
-   <a href="#">
+   ![intro](https://github.com/samiunblack/samiunblack/blob/main/intro.jpg)
+  <div align="center">
+   <a href="#" >
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="#">
