@@ -35,14 +35,13 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 09 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-C++          4 hrs 7 mins    ████████████▒░░░░░░░░░░░░   48.77 %
-C            3 hrs 56 mins   ███████████▓░░░░░░░░░░░░░   46.57 %
-Git          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C++          7 hrs 16 mins   ███████████████▒░░░░░░░░░   61.19 %
+C            4 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   36.88 %
+Git          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka--> 
