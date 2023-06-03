@@ -34,14 +34,14 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <img align="left" src="https://github.com/samiunblack/samiunblack/blob/main/vscode.webp" width="150">
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-C++          7 hrs 45 mins   █████████████████████▓░░░   87.09 %
-Markdown     35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-INI          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Lua          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+C++          8 hrs 21 mins   ██████████████████████░░░   87.92 %
+Markdown     35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+INI          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Lua          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka--> 
