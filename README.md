@@ -1,13 +1,13 @@
    ![intro](https://github.com/samiunblack/samiunblack/blob/main/intro.jpg)
   <div align="center">
    <a href="https://leetcode.com/samiunblack" >
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
     </a>
-   <a href="https://dev.to/samiunblack">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
+   <a href="https://codeforces.com/samiunblack">
+        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces Badge"/>
     </a>
-    <a href="https://www.facebook.com/samiun.black.01">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://hackerrank.com/samiunblack">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank Badge"/>
     </a>
    
 </div>
