@@ -1,12 +1,12 @@
    ![intro](https://github.com/samiunblack/samiunblack/blob/main/intro.jpg)
   <div align="center">
-   <a href="https://leetcode.com/samiunblack" >
+   <a href="https://leetcode.com/samiunblack" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
     </a>
-   <a href="https://codeforces.com/profile/samiunblack">
+   <a href="https://codeforces.com/profile/samiunblack" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces Badge"/>
     </a>
-    <a href="https://hackerrank.com/samiunblack">
+    <a href="https://hackerrank.com/samiunblack" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank Badge"/>
     </a>
    
