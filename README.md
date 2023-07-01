@@ -35,11 +35,11 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2023 - To: 29 June 2023
+From: 23 June 2023 - To: 30 June 2023
 
-C++     4 hrs 14 mins   ████████████████████████░   96.46 %
-Other   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-C       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+C++     3 hrs 25 mins   ████████████████████████▒   97.96 %
+C       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka--> 
