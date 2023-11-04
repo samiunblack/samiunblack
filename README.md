@@ -35,7 +35,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2023 - To: 02 November 2023
+From: 27 October 2023 - To: 03 November 2023
 
 Python     9 hrs 13 mins   ████████████▓░░░░░░░░░░░░   50.97 %
 SQL        7 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   43.29 %
