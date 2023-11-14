@@ -35,11 +35,13 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
-SQL      1 hr 12 mins    █████████████████░░░░░░░░   67.80 %
-Python   24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-C++      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+SQL      1 hr 12 mins    █████████░░░░░░░░░░░░░░░░   36.51 %
+HTML     1 hr 11 mins    █████████░░░░░░░░░░░░░░░░   35.76 %
+CSS      28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Python   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+C++      9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka--> 
