@@ -35,7 +35,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2024 - To: 27 January 2024
+From: 21 January 2024 - To: 28 January 2024
 
 Python     1 hr 44 mins    ████████████░░░░░░░░░░░░░   48.55 %
 C++        59 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
