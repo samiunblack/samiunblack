@@ -27,6 +27,10 @@ I am a software engineer and problem solver. I love programming, reading and tea
 
 <br>
 
+🚀 **My Top Skills :**
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Node.js-4EA94B?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" /> <img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-007ACC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
+
 🔥 **My Stats :**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark)](https://git.io/streak-stats) <img  align="right" src="https://github.com/samiunblack/samiunblack/blob/main/git.webp"> 
