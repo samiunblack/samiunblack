@@ -27,16 +27,18 @@ I am a software engineer and problem solver. I love programming, reading and tea
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at samiunblack@gmail.com
 
 
-<a href="https://app.daily.dev/samiunblack" align="right"><img src="https://api.daily.dev/devcards/e7a0861a820b417b853156b26463ea3a.png?r=zu0" width="300" alt="Samiun Black's Dev Card" align="right"/></a>
+
 
 
 ### 🚀 Skills
+
+<a href="https://app.daily.dev/samiunblack" align="right"><img src="https://api.daily.dev/devcards/e7a0861a820b417b853156b26463ea3a.png?r=zu0" width="270" alt="Samiun Black's Dev Card" align="right"/></a>
+
 **Backend**
 
 <img src="https://github.com/samiunblack/samiunblack/blob/main/backend.png" alt="backend" height="60"/>
-<!--
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL"/> <img src="https://img.shields.io/badge/Node.js-4EA94B?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" /> <img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-007ACC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
--->
+
+
 
 **Frontend**
 
