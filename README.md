@@ -15,10 +15,9 @@
 
 ## Glad to see you here! 😄
 
-
 I am a software engineer and problem solver. I love programming, reading and teaching. I love to surround myself with code and people who love to code.
 
-<a href="https://app.daily.dev/samiunblack" align="right"><img src="https://api.daily.dev/devcards/e7a0861a820b417b853156b26463ea3a.png?r=zu0" width="250" alt="Samiun Black's Dev Card" align="right"/></a>
+
 
 👨‍💻 **Talking about Personal Stuffs:**
 
@@ -28,7 +27,7 @@ I am a software engineer and problem solver. I love programming, reading and tea
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach me at samiunblack@gmail.com
 
 
-
+<a href="https://app.daily.dev/samiunblack" align="right"><img src="https://api.daily.dev/devcards/e7a0861a820b417b853156b26463ea3a.png?r=zu0" width="300" alt="Samiun Black's Dev Card" align="right"/></a>
 
 
 ### 🚀 Skills
