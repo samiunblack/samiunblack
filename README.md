@@ -1,5 +1,6 @@
 <h1 align="center">Hello! I'm Samiun Black</h1>
 <p align="center">I'm a backend-focused software engineer with proficiency in frontend development and a passion for competitive programming.</p>
+
 <br>
 
 ### Around the web
@@ -12,7 +13,6 @@
 <a href="https://codeforces.com/profile/samiunblack"><img src="https://img.shields.io/badge/CodeForces-343A40?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces badge"/></a>
 <a href="https://hackerrank.com/samiunblack"><img src="https://img.shields.io/badge/HackerRank-343A40?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank badge"/></a>
 
-<br>
 
 ### 👨‍💻 Talking about personal stuffs
 - ☄️ I'm currently working on backend projects with Django.
@@ -20,7 +20,6 @@
 - 🤝 Trying to connect more with fellow developers.
 - ⚡ Fun fact: Typing speed 110 WPM
 - 📬 Reach me out at samiunblack@gmail.com
-
 
 ### 🚀 Skills
 
@@ -53,7 +52,6 @@
 <details> 
     <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stat"/>
-  
 
 <!--START_SECTION:waka-->
 ```txt
