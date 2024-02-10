@@ -53,8 +53,6 @@
 <details> 
     <summary><h3>Coding Stats</h3> (click to open)</summary>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stat"/>
-    
-  <br></br>
   
 
 <!--START_SECTION:waka-->
