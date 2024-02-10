@@ -2,7 +2,7 @@
 <p align="center">I'm a backend-focused software engineer with proficiency in frontend development and a passion for competitive programming.</p>
 <br>
 
-**Around the web**
+### Around the web
 
 <a href="https://www.linkedin.com/in/samiunblack01/"><img src="https://img.shields.io/badge/LinkedIn-343A40?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/></a>
 <a href="https://discord.com/users/818515786803970148"><img src="https://img.shields.io/badge/Discord-343A40?style=for-the-badge&logo=discord&logoColor=white" alt="discord badge"/></a>
@@ -14,7 +14,7 @@
 
 <br>
 
-👨‍💻 **Talking about personal stuffs:**
+### 👨‍💻 Talking about personal stuffs
 - ☄️ I'm currently working on backend projects with Django.
 - 🧶 In my free time I read and write tech articles.
 - 🤝 Trying to connect more with fellow developers.
@@ -27,31 +27,31 @@
 **Backend**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="40"/>
+    <img src="https://skillicons.dev/icons?i=django,postgres,mysql,nodejs,express,mongodb" height="45"/>
 </a>
 
 **Frontend**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="40"/>
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" height="45"/>
 </a>
 
 **Languages**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c" height="45"/>
 </a>
 
 **Tools**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,firebase,linux,figma" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,neovim,firebase,linux,figma" height="45"/>
 </a>
 
 <br>
 
 <details> 
-    <summary><h3>Coding Stats</h3> (click to open)</summary>
+    <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stat"/>
   
 
