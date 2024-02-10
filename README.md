@@ -53,7 +53,6 @@
 <details> 
     <summary><h3>Coding Stats</h3> (click to open)</summary>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stat"/>
-    <img src="https://leetcard.jacoblin.cool/samiunblack?hide=ranking&width=480" alt="leetcode stat" align="right"/>
     
   <br></br>
   
