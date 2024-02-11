@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/samiunblack/samiunblack/blob/main/header-1.png" alt="header image"></img>
+<img align="center" src="https://github.com/samiunblack/samiunblack/blob/main/header-2.png" alt="header image"></img>
 <p align="center">I'm a backend-focused software engineer with proficiency in frontend development and a passion for competitive programming.</p>
 
 <br>
