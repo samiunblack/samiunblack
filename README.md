@@ -54,8 +54,7 @@
 
 <details> 
     <summary><h3>📊 Coding Stats</h3> (click to open)</summary>
-    <img src="https://stats.quine.sh/samiunblack/github?theme=dark" alt=""/>
-    <img src="https://stats.quine.sh/samiunblack/languages-over-time?theme=dark" alt="" align="right" width="400"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stats"/>
     
 
 <!--START_SECTION:waka-->
