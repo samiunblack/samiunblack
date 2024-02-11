@@ -56,12 +56,14 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=samiunblack&theme=github-dark" alt="github stat"/>
 
 <!--START_SECTION:waka-->
-```txt
-From: 02 February 2024 - To: 09 February 2024
 
-C++     7 hrs 26 mins   █████████████████████████   99.69 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```txt
+From: 03 February 2024 - To: 10 February 2024
+
+C++        7 hrs 52 mins   █████████████████████▓░░░   86.16 %
+Markdown   1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka--> 
