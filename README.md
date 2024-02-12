@@ -60,12 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
-C++        7 hrs 52 mins   █████████████████████▓░░░   86.16 %
-Markdown   1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+C++        7 hrs 22 mins   █████████████████████▒░░░   85.40 %
+Markdown   1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka--> 
