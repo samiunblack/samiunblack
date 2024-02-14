@@ -60,7 +60,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 12 February 2024
+From: 06 February 2024 - To: 13 February 2024
 
 C++        7 hrs 21 mins   █████████████████████▒░░░   84.87 %
 Markdown   1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
