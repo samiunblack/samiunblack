@@ -60,11 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-HTML   3 mins          ████████████████████████▒   97.95 %
-C++    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-CSS    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+HTML   3 mins          ████████████████████████▓   98.66 %
+C++    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka--> 
