@@ -60,7 +60,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2024 - To: 20 March 2024
+From: 14 March 2024 - To: 21 March 2024
 
 C     1 hr 7 mins     ██████████████████████▓░░   90.90 %
 C++   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
