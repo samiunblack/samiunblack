@@ -60,7 +60,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2024 - To: 17 May 2024
+From: 11 May 2024 - To: 18 May 2024
 
 Text         3 hrs 50 mins   ███████████████████▓░░░░░   78.31 %
 C++          42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
