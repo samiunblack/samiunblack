@@ -60,12 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-Text         1 hr 36 mins    ██████████████████████░░░   88.38 %
-JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-C++          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
