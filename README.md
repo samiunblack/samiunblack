@@ -60,9 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-No activity tracked
+JavaScript   26 mins         ██████████▓░░░░░░░░░░░░░░   43.08 %
+CSS          18 mins         ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+HTML         15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
 ```
 
 <!--END_SECTION:waka--> 
