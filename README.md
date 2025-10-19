@@ -60,9 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-No activity tracked
+Python       1 hr 32 mins    ███████████████████████▓░   95.19 %
+JavaScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka--> 
