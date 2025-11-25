@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-HTML    2 hrs 29 mins   ████████████▓░░░░░░░░░░░░   50.25 %
-C       2 hrs 27 mins   ████████████▒░░░░░░░░░░░░   49.55 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+HTML    2 hrs 29 mins   ████████████████████████▒   97.25 %
+C       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka--> 
