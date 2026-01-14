@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-HTML    27 mins         █████████████████▒░░░░░░░   68.78 %
-C       12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.40 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+C       1 hr 5 mins     █████████████████▒░░░░░░░   69.85 %
+HTML    27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka--> 
