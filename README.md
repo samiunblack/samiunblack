@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Kotlin                     2 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.64 %
-TypeScript                 1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-HTML                       44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-XML                        41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-JavaScript                 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Kotlin                     2 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.91 %
+TypeScript                 1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+XML                        41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+HTML                       40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+JavaScript                 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
 ```
 
 <!--END_SECTION:waka--> 
