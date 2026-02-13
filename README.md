@@ -60,13 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Kotlin            2 hrs 3 mins    ██████████████▓░░░░░░░░░░   58.59 %
-XML               41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Dart              25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Other             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
