@@ -60,9 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-No activity tracked
+Kotlin            26 mins         ██████████████▒░░░░░░░░░░   57.19 %
+XML               19 mins         ██████████▒░░░░░░░░░░░░░░   40.75 %
+Java Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka--> 
